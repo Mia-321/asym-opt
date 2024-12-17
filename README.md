@@ -1,3 +1,7 @@
+# asym-opt
+
+This is the implementation of paper https://arxiv.org/abs/2412.11739
+
 Implements of spectral GNNs are based on following repositories:
 
 ChebNet, JacobiConv: https://github.com/GraphPKU/JacobiConv
@@ -30,5 +34,3 @@ python3 -u training_asym.py --dataset Texas --net PolyNet --K 10 --lr1 5e-2 --lr
 
 
 
-# asym-opt
-# asym-opt
