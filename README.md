@@ -1,6 +1,6 @@
 # asym-opt
 
-This is the implementation of paper https://arxiv.org/abs/2412.11739
+This is the implementation of paper "Asymmetric Learning for Spectral Graph Neural Networks" (https://arxiv.org/abs/2412.11739)
 
 Implements of spectral GNNs are based on following repositories:
 
